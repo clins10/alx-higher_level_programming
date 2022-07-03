@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-ALX Python Course
+0x09. Python - Everything is object
