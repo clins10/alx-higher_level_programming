@@ -1,2 +1,1 @@
-# alx-higher_level_programming
-ALX Python Course
+0x08. Python - More Classes and Objects
